@@ -1,6 +1,9 @@
 # Reidentification of pseudonymized data
 
-[Pseudonymization](https://en.wikipedia.org/wiki/Pseudonymization)  is a technique that replaces personnal identifiers, such as a name or numerical identifiers, by an artificial identifier with no obvious link with the user. A common, but often inadequate,  practice is to generate pseudonyms by applying a one way function such as a cryptographic hash. Pseudonyms generated with this approach can often be re-identified: the original identifier can be recovered from the pseudonym. The two following exercises shows how pseudonyms derived through simple cryptographic hashing can be trivially recovered. 
+[Pseudonymization](https://en.wikipedia.org/wiki/Pseudonymization)  is a technique that replaces personnal identifiers, such as a name or numerical identifiers, by an artificial identifier with no obvious link with the user. A common, but often inadequate,  practice is to generate pseudonyms by applying a one way function such as a cryptographic hash. 
+
+
+Pseudonyms generated with this approach can often be re-identified: the original identifier can be recovered from the pseudonym. The two following exercises shows how pseudonyms derived through simple cryptographic hashing can be trivially recovered. 
   
 
 ## Reidentification of customer identifiers
