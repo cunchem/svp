@@ -11,3 +11,5 @@
 
 ## Resources
 
+- Pfitzmann, Andreas, and Marit Hansen. "Anonymity, unlinkability, undetectability, unobservability, pseudonymity, and identity management-a consolidated proposal for terminology." Version v0.34 (2010). [pdf](http://dud.inf.tu-dresden.de/literatur/Anon_Terminology_v0.34.pdf)
+- UCL "Anonymisation and Pseudonymisation" https://www.ucl.ac.uk/data-protection/guidance-staff-students-and-researchers/practical-data-protection-guidance-notices/anonymisation-and
