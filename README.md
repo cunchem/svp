@@ -6,7 +6,7 @@
 ## Tutorials (TP)
 * [Pseudonymization and re-identification](Tutorials/Pseudonymization/Subject_pseudonymization.md)
 * [Anonymization](Tutorials/Anonymization/Suject_anonymization.md)
-* [Anonymous networking: Tor](Tutorials/Tor/)
+* [Anonymous network: Tor](Tutorials/AnonymousCommunications/Anonymous_communication.md)
 
 
 ## Resources
