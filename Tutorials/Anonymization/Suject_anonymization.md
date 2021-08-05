@@ -48,7 +48,7 @@ The plot presenting anonymity sets of a dataset includes several elements :
 
 The following plot has been produced by kmap using the *adult* dataset and by selecting the attributes {age, sex, country of origin}. The size of the anonymity set ranges from 1 (top left) to several hundreds (bottom right). The top-left point of coordinates (1,10^3) means that there are 1000 anonymity sets of size 1.
 
-![](Figures/kmap_attrnum=3_annot.pdf  "Anonymity sets for Size Anonymity sets for the attributes ”{age, sex, country of origin}”")
+![](Figures/kmap_attrnum_3_annot.png "Anonymity sets for Size Anonymity sets for the attributes {age, sex, country of origin}" )
 
 * Download *kmap* from its repository [here](https://github.com/gaborgulyas/kmap)
 * Download the *adult* dataset from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data)
