@@ -24,7 +24,7 @@ Leveraging the content of [pseudonymisation_userid.py](pseudonymisation_userid.p
 ### Hashing an identifier
 
 If you want to hash an identifier you need to take care to the following points:
-* Use `zfill` to ensure that your string is 5 characters long: `"1".zfill(5)
+* Use `zfill` to ensure that your string is 5 characters long: `"1".zfill(5)`
 * Encode your string in UTF8 before passing it to the hash function: `s.encode('utf-8')`
 
 
