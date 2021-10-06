@@ -21,6 +21,12 @@ The goal of this exercise is to perform a re-identification recovering the origi
 
 Leveraging the content of [pseudonymisation_userid.py](pseudonymisation_userid.py), complete the script [reidentification_userid.py](reidentification_userid.py) and  re-identify the `customer_id` corresponding to the pseudonyms stored in the file [userid_hashed.txt](userid_hashed.txt). 
 
+### Hashing an identifier
+
+If you want to hash an identifier you need to take care to the following points:
+* Use `zfill` to ensure that your string is 5 characters long: `"1".zfill(5)
+* Encode your string in UTF8 before passing it to the hash function: `s.encode('utf-8')`
+
 
 ## Reidentification of social security numbers
 
