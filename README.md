@@ -9,7 +9,7 @@
 * [Anonymous network: Tor](Tutorials/AnonymousCommunications/Anonymous_communication.md)
 
 ## Project 
-* [Document study](Project/Document_study/Document_study.md)
+* [Document study](Document_study/Document_study.md)
 * [Messenger application audit](Project/Messenger_audit/Subject_messenger_audit.md)
 
 ## Resources
