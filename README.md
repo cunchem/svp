@@ -10,7 +10,7 @@
 
 ## Project 
 * [Document study](Document_study/Document_study.md)
-* [Messenger application audit](Project/Messenger_audit/Subject_messenger_audit.md)
+* [Messenger application audit](Messenger_audit/Subject_messenger_audit.md)
 
 ## Resources
 
